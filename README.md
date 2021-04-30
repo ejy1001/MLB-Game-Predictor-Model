@@ -1,2 +1,2 @@
 # MLB-Game-Predictor-Model
-This multiple linear regression model predicts who will win a baseball game between two teams based on who will have more at-bats as determined by previous other various baseball statistics.
+This multiple linear regression model predicts who will win a baseball game between two teams. It is based on who will have more at-bats as determined by previous baseball statistics. The model can be used in R using R Shiny as well. First download the sourced data, then you can download the R code and put it into R. It will then be run through R and R Shiny. The model is fairly accurate, but has not been tested on other data other than the sourced data from the 2018 season.
